@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hari Priya
 - 👀 I’m interested in c,python, java
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java wid #DSAwithKunal 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me haripriyavcetece@gmail.com
 
