@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Hari Priya
 - 👀 I’m interested in c,python, java
-- 🌱 I’m currently learning java wid #DSAwithKunal 
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](haripriyavcetece@gmail.com)
