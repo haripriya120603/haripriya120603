@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
+
    <a href="https://www.linkedin.com/in/haripriya-k-s-4b0280227">
          <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
    </a>
