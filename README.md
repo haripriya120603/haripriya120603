@@ -16,12 +16,14 @@
    <a href="https://www.instagram.com/dazzled__sweetie__1724/">
          <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
    </a>
-   
-   
-   
+   <br/>
    <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=vue&include_all_commits=true" />
+   <br/>
+    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haripriya120603&theme=vue)
+<br/>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haripriya120603&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haripriya120603&theme=vue)
 
 
 
