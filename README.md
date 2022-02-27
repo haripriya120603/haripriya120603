@@ -1,3 +1,4 @@
+
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
 
 
@@ -18,12 +19,16 @@
 
 
 - 📫 How to reach me 
-<a href="https://www.linkedin.com/in/haripriya-k-s-4b0280227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haripriya-k-s-4b0280227"  width="26px" /></a>
- <a href="mailto:haripriyavcetece@gmail.com">
- <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
- <a href="https://instagram.com/dazzled__sweetie__1724/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dazzled__sweetie__1724" width="26px" /></a>
- 
 
+   <a href="https://www.linkedin.com/in/haripriya-k-s-4b0280227">
+         <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+   </a>
+   <a href="mailto:haripriyavcetece@gmail.com">
+         <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+   </a>
+   <a href="https://www.instagram.com/dazzled__sweetie__1724/">
+         <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+   </a>
    <br/>
    <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=vue&include_all_commits=true" />
    <br/>
@@ -31,7 +36,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haripriya120603&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haripriya120603&theme=vue)
-
 
 
 
