@@ -32,7 +32,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=vue&include_all_commits=true" />
    <br/>
    
-<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haripriya120603&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haripriya120603&theme=vue)
 
