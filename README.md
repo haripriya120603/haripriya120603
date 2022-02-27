@@ -18,10 +18,10 @@
 
 
 - 📫 How to reach me 
-<a href="https://www.linkedin.com/in/haripriya-k-s-4b0280227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haripriya-k-s-4b0280227" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/haripriya-k-s-4b0280227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haripriya-k-s-4b0280227"  width="26px" /></a>
  <a href="mailto:haripriyavcetece@gmail.com">
          <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
- <a href="https://instagram.com/dazzled__sweetie__1724/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dazzled__sweetie__1724" height="30" width="40" /></a>
+ <a href="https://instagram.com/dazzled__sweetie__1724/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dazzled__sweetie__1724" width="26px" /></a>
  
 
    <br/>
