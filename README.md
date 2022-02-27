@@ -26,10 +26,7 @@
          <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
  <a href="https://instagram.com/dazzled__sweetie__1724/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rv.2592.rv" height="30" width="40" /></a>
  
-   </a>
-   <a href="https://www.instagram.com/dazzled__sweetie__1724/">
-         <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-   </a>
+
    <br/>
    <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=vue&include_all_commits=true" />
    <br/>
