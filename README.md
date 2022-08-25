@@ -3,6 +3,10 @@
 
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hari Priya
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Hello+!;Welcome+To+My+GitHub+Profile+.+.+.;Learning+never+exhausts+the+mind.;+.+.+.&center=true"></a>  
+</p>
 - 👀 I’m interested in c,python, java
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on projects
