@@ -28,7 +28,13 @@
  <code><img height="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" title="Arduino"></code>
 </p>
 
+</br>
 
+- 😄 Coding is My Life. :yum:
+
+![enter image description here](https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/coding.gif)
+
+<br>
 
 - 📫 How to reach me 
 
