@@ -4,6 +4,10 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hari Priya
 
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Hari Priya. 
+<h3 align="center"> BE Pre Final Year at Velammal College Of Engineering And Technology,</h3>
+<h4 align="center">Madurai,Tamil Nadu.</h4>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Hello+!;Welcome+To+My+GitHub+Profile+.+.+.;Learning+never+exhausts+the+mind.;+.+.+.&center=true"></a>  
 </p>
