@@ -7,9 +7,12 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Hello+!;Welcome+To+My+GitHub+Profile+.+.+.;Learning+never+exhausts+the+mind.;+.+.+.&center=true"></a>  
 </p>
+
+</br>
 - 👀 I’m interested in c,python, java
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on projects
+</br>
 ## 🧰 Languages and Tools:
 <p >
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
