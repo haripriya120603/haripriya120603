@@ -36,7 +36,7 @@
 
 - 😄 Coding is My Life. :yum:
 
-![enter image description here](https://github.com/PoornaSenadheera100/PoornaSenadheera100/blob/main/Images/coding.gif)
+![enter image description here](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <br>
 
