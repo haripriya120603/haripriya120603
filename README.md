@@ -51,21 +51,20 @@
    </a>
    
    <br/>
-   
-   
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.haripriya120603/streak-stats)
+   ### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haripriya12060&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/haripriya120603/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya12060&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
    
-   <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=vue&include_all_commits=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=dark&background=000000" />
    <br/>
    
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haripriya120603&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haripriya120603&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haripriya120603&theme=dark&background=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haripriya120603&theme=dark&background=000000)
 
 <br/>
 
