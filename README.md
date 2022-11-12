@@ -32,6 +32,7 @@
  <code><img height="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" title="Arduino"></code>
 </p>
 
+
 </br>
 
 - 😄 Coding is My Life. :yum:
@@ -51,6 +52,10 @@
    <a href="https://www.instagram.com/dazzled__sweetie__1724/">
          <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
    </a>
+   
+   ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+
    
    <br/>
    
