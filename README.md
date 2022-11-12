@@ -1,9 +1,6 @@
 
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
 
-
-
-
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Hari Priya. 
 <h3 align="center"> BE Pre Final Year at Velammal College Of Engineering And Technology,</h3>
 <h4 align="center">Madurai,Tamil Nadu.</h4>
@@ -54,6 +51,14 @@
    </a>
    
    <br/>
+   
+   
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
    
    <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=vue&include_all_commits=true" />
    <br/>
