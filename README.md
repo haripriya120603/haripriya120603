@@ -60,8 +60,6 @@
    
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haripriya120603&theme=vue)
-
-<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haripriya120603&theme=vue)
 
 <br/>
