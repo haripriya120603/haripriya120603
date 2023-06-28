@@ -54,7 +54,7 @@
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya120603&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya120603&theme=tokyonight)
    <br/>
    
 
