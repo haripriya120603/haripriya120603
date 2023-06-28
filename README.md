@@ -55,6 +55,8 @@
 
    
    <img src="https://github-readme-stats.vercel.app/api?username=haripriya120603&show_icons=true&theme=dark&background=000000" />
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
    <br/>
    
 
